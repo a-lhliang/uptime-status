@@ -10,7 +10,7 @@ window.Config = {
   ],
 
   // 日志天数
-  CountDays: 90,
+  CountDays: 30,
 
   // 是否显示检测站点的链接
   ShowLink: true,
@@ -18,7 +18,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Blog',
+      text: '返回博客',
       url: 'https://lhliang.com/'
     },
   ],
